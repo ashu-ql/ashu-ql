@@ -3,11 +3,11 @@
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashuguptahere) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/hey_its_ashu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashuguptahere) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hey_its_ashu)
 
 
 # 🐍 My Contributions:
-![](https://raw.githubusercontent.com/aashish-ql/aashish-ql/output/github-contribution-grid-snake.svg)<br/>
+![](https://raw.githubusercontent.com/ashu-ql/ashu-ql/output/github-contribution-grid-snake.svg)<br/>
 
 
 # 💻 Tech Stack:
@@ -15,21 +15,21 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aashish-ql&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aashish-ql&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-ql&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ashu-ql&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashu-ql&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-ql&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=aashish-ql&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ashu-ql&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 # 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=aashish-ql&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ashu-ql&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aashish-ql&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ashu-ql&icon=0&color=0)](https://visitcount.itsvg.in)
